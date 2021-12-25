@@ -2,7 +2,7 @@
 <h3 align="center">I'm junior c# developer.</h3>
 <p align="center"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chanos" /> </p>
 <br/>
-<h3 align="center">⚙ Teck Stack ⚙</h3>
+<h3 align="center">⚙ Tec Stack ⚙</h3>
 <p align ="center">  
 	<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>    
