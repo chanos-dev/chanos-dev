@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋</h1> 
 <h3 align="center">I'm junior c# developer.</h3>
-<p align="center"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chanos" /> </p>
+<p align="center"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chanos" />
+<img src="https://www.codewars.com/users/chanos-dev/badges/micro" /></p>
 <br/>
 <h3 align="center">⚙ Tech Stack ⚙</h3>
 <p align ="center">  
@@ -28,6 +29,9 @@
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
 	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
+	<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  -->
 </p>
 <br/><br/>
 <p align="center">
@@ -54,4 +58,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- badge_url: https://simpleicons.org/
+
 -->
