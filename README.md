@@ -2,7 +2,7 @@
 <h3 align="center">I'm junior c# developer.</h3>
 <p align="center"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chanos" />
 <img src="https://www.codewars.com/users/chanos-dev/badges/micro" /></p>
-<hr/>
+<br/>
 <h3 align="center">⚙ Tech Stack ⚙</h3>
 <p align ="center">  
 	<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
@@ -22,7 +22,7 @@
 	<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" />
 </p>
-<hr/>
+<br/>
 <h3 align="center">📚 Studying 📚</h3>
 <p align ="center">	
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
@@ -35,11 +35,10 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
-<hr/>
+<br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=blueberry&include_all_commits=true"/>
 </p> 
-<br/><br/>
 
 <!--
 <p align="center">
