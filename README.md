@@ -31,13 +31,13 @@
 	<br/>
 	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
 	<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->	
+	<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
+  	<img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=blueberry&include_all_commits=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=slateorange&include_all_commits=true"/>
 </p> 
 
 <!--
