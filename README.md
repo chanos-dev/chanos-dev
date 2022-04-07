@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋</h1> 
 <h3 align="center">I'm junior c# developer.</h3>
-<p align="center"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chanos" />
-<img src="https://www.codewars.com/users/chanos-dev/badges/micro" /></p>
+<p align="center"> 
+	<img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chanos" />
+	<img src="https://www.codewars.com/users/chanos-dev/badges/micro" />	
+</p>
 <br/>
 <h3 align="center">⚙ Tech Stack ⚙</h3>
 <p align ="center">  
@@ -29,17 +31,23 @@
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
 	<br/>
-	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
-	<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->	
+	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/>  
 	<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
   	<img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=slateorange&include_all_commits=true"/>
-</p> 
-
+	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    	<img height="135" src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=slateorange&include_all_commits=true"/>	
+	</a>	
+	<a href="https://opgc.me/#/users/chanos-dev" target="_blank">
+		<img height="135" src="https://api.opgc.me/githubs/users/chanos-dev/tag/?theme=dracula"/>
+	</a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+		<img src="https://github-profile-trophy.vercel.app/?username=chanos-dev&column=-1&theme=gruvbox&no-frame=true">	 
+	</a>
+</p>  
+ 
 <!--
 <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanos"/>
@@ -62,4 +70,4 @@ Here are some ideas to get you started:
 
 - badge_url: https://simpleicons.org/
 
--->
+--> 
