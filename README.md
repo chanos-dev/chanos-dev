@@ -37,17 +37,17 @@
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    	<img height="135" src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=slateorange&include_all_commits=true"/>	
+	<a href="https://github-readme-stats.vercel.app" target="_blank">
+    	<img src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=slateorange&include_all_commits=true"/>	
 	</a>	
-	<a href="https://opgc.me/#/users/chanos-dev" target="_blank">
+	<!-- <a href="https://opgc.me/#/users/chanos-dev" target="_blank">
 		<img height="135" src="https://api.opgc.me/githubs/users/chanos-dev/tag/?theme=dracula"/>
-	</a>
+	</a> -->
 	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
 		<img src="https://github-profile-trophy.vercel.app/?username=chanos-dev&column=-1&theme=gruvbox&no-frame=true">	 
 	</a>
-</p>  
- 
+</p>   
+
 <!--
 <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanos"/>
