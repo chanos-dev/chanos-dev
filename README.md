@@ -16,23 +16,24 @@
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />	 
 	<br/>	
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>    
-	<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
+	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/>     	    
+	<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>	
     <br/>
+	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>    	
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>    	
+	<br/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/> 
     <br/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+
 </p>
 <br/>
 <h3 align="center">📚 Studying 📚</h3>
 <p align ="center">		
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
-	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
-	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/>     	
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />	
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>     	
 </p>
 <br/>
@@ -43,9 +44,9 @@
 	<!-- <a href="https://opgc.me/#/users/chanos-dev" target="_blank">
 		<img height="135" src="https://api.opgc.me/githubs/users/chanos-dev/tag/?theme=dracula"/>
 	</a> -->
-	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+	<!-- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
 		<img src="https://github-profile-trophy.vercel.app/?username=chanos-dev&column=-1&theme=gruvbox&no-frame=true">	 
-	</a>
+	</a> -->
 </p>   
 
 <!--
