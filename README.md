@@ -17,13 +17,13 @@
 	<br/>	
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/>     	    
-	<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>	
+	<!-- <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>	 -->
     <br/>
 	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>    	
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>    	
 	<br/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/GitLab%20-%23323330.svg?style=flat-square&logo=GitLab&logoColor=FCA121"/> 
     <br/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
@@ -32,15 +32,16 @@
 <br/>
 <h3 align="center">📚 Studying 📚</h3>
 <p align ="center">		
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Vue.js%20-%23323330.svg?style=flat-square&logo=Vue.js&logoColor=4FC08D" />	
 	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>     	
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />	
 </p>
 <br/>
 <p align="center">
-	<a href="https://github-readme-stats.vercel.app" target="_blank">
+	<!-- <a href="https://github-readme-stats.vercel.app" target="_blank">
     	<img src="https://github-readme-stats.vercel.app/api?username=chanos-dev&show_icons=true&theme=slateorange&include_all_commits=true"/>	
-	</a>	
+	</a>	 -->
 	<!-- <a href="https://opgc.me/#/users/chanos-dev" target="_blank">
 		<img height="135" src="https://api.opgc.me/githubs/users/chanos-dev/tag/?theme=dracula"/>
 	</a> -->
