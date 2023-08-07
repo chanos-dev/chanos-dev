@@ -47,7 +47,8 @@
 </p>
 <h3 align="center">📚 Studying 📚</h3>
 <p align ="center">		
-	<img src="https://img.shields.io/badge/Vue.js%20-%23323330.svg?style=flat-square&logo=Vue.js&logoColor=4FC08D" />	
+	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
 </p>
 
 <h3 align="center">🔍 Interest 🔍</h3>
