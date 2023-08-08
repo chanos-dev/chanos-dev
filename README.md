@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 	<br/>
 	<!-- framework -->	
-	<img src="https://img.shields.io/badge/.NET%20Framework 4.5.2+-512BD4?style=flat-square&logo=.NET&logoColor=white"/>     	    
+	<img src="https://img.shields.io/badge/.NET%20Framework 4.6.2+-512BD4?style=flat-square&logo=.NET&logoColor=white"/>     	    
 	<img src="https://img.shields.io/badge/.NET%206+-512BD4?style=flat-square&logo=.NET&logoColor=white"/> 
 	<!-- <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>	 -->
     <br/>
